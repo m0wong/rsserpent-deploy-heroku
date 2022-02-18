@@ -22,11 +22,10 @@ pyee==8.2.2
 pyppeteer==0.2.6
 pyquery==1.4.3
 python-dateutil==2.8.2
-requests==2.27.1
 rfc3986==1.5.0
 rsserpent==0.1.4
 rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@3f4a00f1052b5854588130167da33f672f11fbcc
-rsserpent-plugin-douban @ git+https://github.com/m0wong/rsserpent-plugin-douban.git@f2feeb95ba9ec2b5ec2ddd10ea384c12da9d9cb1
+rsserpent-plugin-douban @ git+https://github.com/m0wong/rsserpent-plugin-douban.git@a9390a0491a30ab80118dbc0e22818b1ac114238
 six==1.16.0
 sniffio==1.2.0
 starlette==0.16.0
